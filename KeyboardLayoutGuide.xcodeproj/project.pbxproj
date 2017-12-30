@@ -123,7 +123,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0920;
-				ORGANIZATIONNAME = SwiftBit;
+				ORGANIZATIONNAME = "John Morgan";
 				TargetAttributes = {
 					71CEEF621FC2A132000B8EE6 = {
 						CreatedOnToolsVersion = 9.2;
@@ -306,7 +306,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.swift-bit.KeyboardLayoutGuide";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.github.johnpatrickmorgan.KeyboardLayoutGuide";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -334,7 +334,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.swift-bit.KeyboardLayoutGuide";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.github.johnpatrickmorgan.KeyboardLayoutGuide";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
